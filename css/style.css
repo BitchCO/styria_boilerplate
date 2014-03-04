@@ -2902,6 +2902,7 @@ html {
     Styria Boilerplate v1.4 
 */
 body {
+  font-family: Arial;
   background: #333;
   margin: 0;
   padding: 0; }
