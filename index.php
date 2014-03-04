@@ -9,9 +9,7 @@
     <title>Title</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">     
-    <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="css/grid.css">
-    <link rel="stylesheet" href="css/globals.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="js/libs/modernizr-2.7.0.min.js"></script>    
 </head>
 <body>
