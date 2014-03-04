@@ -1,3 +1,5 @@
+@charset "CP852";
+/* važno */
 .container:before, .container-12:before, [class*="grid-"][class*="parent"]:before, .container:after, .container-12:after, [class*="grid-"][class*="parent"]:after {
   content: "";
   display: table; }
@@ -2895,8 +2897,11 @@ html {
 .uppercase {
   text-transform: uppercase; }
 
+/* važno */
 /*
     Styria Boilerplate v1.4 
 */
 body {
-  background: #333; }
+  background: #333;
+  margin: 0;
+  padding: 0; }

@@ -16,7 +16,7 @@
 
     <header>
         <div class="container">
-            <div class="grid-4">
+            <div class="grid-4 grid-moblet-12">
                 Proba
             </div>
             <div class="grid-8 parent">

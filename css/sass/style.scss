@@ -1,8 +1,11 @@
+/* važno */
 @import 'include/grid-settings';
 @import 'include/grid';
 @import "include/normalize";
 @import "include/mixins";
 @import "include/utility";
+/* važno */
+
 
 /*
     Styria Boilerplate v1.4 
@@ -10,4 +13,7 @@
 
 body{
 	background:#333;
+	margin: 0;
+	padding: 0;
 }
+

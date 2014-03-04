@@ -11,5 +11,3 @@ $gridle-ie7-support: false;
 @include gridle_register_state('mob', null , 480px );
 @include gridle_register_state('tab', 481px , 801px );
 @include gridle_register_state( "moblet" , null , 801px );
-
-
