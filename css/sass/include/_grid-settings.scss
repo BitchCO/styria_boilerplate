@@ -1,0 +1,15 @@
+// Import gridle :
+@import 'gridle/gridle';
+
+// Configure :
+$gridle-columns-count: 12;
+$gridle-gutter-width: 30px;
+$gridle-debug: false;
+$gridle-html-states-classes: false;
+$gridle-ie7-support: false;
+
+@include gridle_register_state('mob', null , 480px );
+@include gridle_register_state('tab', 481px , 801px );
+@include gridle_register_state( "moblet" , null , 801px );
+
+
