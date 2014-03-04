@@ -21,9 +21,7 @@
             <div class="grid-4">
 
             </div>
-            <div class="grid-8 parent">
-
-                
+            <div class="grid-8 parent">                
             </div>
         </div>
     </header>
